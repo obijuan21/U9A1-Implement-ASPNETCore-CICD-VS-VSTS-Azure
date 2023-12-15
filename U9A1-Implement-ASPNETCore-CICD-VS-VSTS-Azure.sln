@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U9A1-Implement-ASPNETCore-CICD-VS-VSTS-Azure", "U9A1-Implement-ASPNETCore-CICD-VS-VSTS-Azure\U9A1-Implement-ASPNETCore-CICD-VS-VSTS-Azure.csproj", "{F3AF5197-2AEA-4C70-9F5A-6A210D5AF71E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3AF5197-2AEA-4C70-9F5A-6A210D5AF71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AF5197-2AEA-4C70-9F5A-6A210D5AF71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AF5197-2AEA-4C70-9F5A-6A210D5AF71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AF5197-2AEA-4C70-9F5A-6A210D5AF71E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C34EF74E-67C0-40BA-AD57-A20014F96373}
+	EndGlobalSection
+EndGlobal
